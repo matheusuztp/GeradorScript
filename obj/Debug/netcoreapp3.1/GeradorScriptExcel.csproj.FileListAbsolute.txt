@@ -1,0 +1,6 @@
+C:\Users\MatheusdeMelloBueno\OneDrive - ForLogic\Área de Trabalho\Util\GeradorScriptExcel\obj\Debug\netcoreapp3.1\GeradorScriptExcel.Gerador.resources
+C:\Users\MatheusdeMelloBueno\OneDrive - ForLogic\Área de Trabalho\Util\GeradorScriptExcel\obj\Debug\netcoreapp3.1\GeradorScriptExcel.Properties.Resources.resources
+C:\Users\MatheusdeMelloBueno\OneDrive - ForLogic\Área de Trabalho\Util\GeradorScriptExcel\obj\Debug\netcoreapp3.1\GeradorScriptExcel.csproj.GenerateResource.cache
+C:\Users\MatheusdeMelloBueno\OneDrive - ForLogic\Área de Trabalho\Util\GeradorScriptExcel\obj\Debug\netcoreapp3.1\GeradorScriptExcel.AssemblyInfoInputs.cache
+C:\Users\MatheusdeMelloBueno\OneDrive - ForLogic\Área de Trabalho\Util\GeradorScriptExcel\obj\Debug\netcoreapp3.1\GeradorScriptExcel.AssemblyInfo.cs
+C:\Users\MatheusdeMelloBueno\OneDrive - ForLogic\Área de Trabalho\Util\GeradorScriptExcel\obj\Debug\netcoreapp3.1\GeradorScriptExcel.csproj.CoreCompileInputs.cache

@@ -1,0 +1,11 @@
+C:\Users\MatheusdeMelloBueno\OneDrive - ForLogic\Área de Trabalho\Util\GeradorScriptExcel.exe
+C:\Users\MatheusdeMelloBueno\OneDrive - ForLogic\Área de Trabalho\Util\GeradorScriptExcel.dll
+C:\Users\MatheusdeMelloBueno\OneDrive - ForLogic\Área de Trabalho\Util\GeradorScriptExcel.deps.json
+C:\Users\MatheusdeMelloBueno\OneDrive - ForLogic\Área de Trabalho\Util\GeradorScriptExcel.runtimeconfig.json
+C:\Users\MatheusdeMelloBueno\OneDrive - ForLogic\Área de Trabalho\Util\GeradorScriptExcel.pdb
+C:\Users\MatheusdeMelloBueno\OneDrive - ForLogic\Área de Trabalho\Util\ClosedXML.dll
+C:\Users\MatheusdeMelloBueno\OneDrive - ForLogic\Área de Trabalho\Util\DocumentFormat.OpenXml.dll
+C:\Users\MatheusdeMelloBueno\OneDrive - ForLogic\Área de Trabalho\Util\ExcelNumberFormat.dll
+C:\Users\MatheusdeMelloBueno\OneDrive - ForLogic\Área de Trabalho\Util\Irony.dll
+C:\Users\MatheusdeMelloBueno\OneDrive - ForLogic\Área de Trabalho\Util\SixLabors.Fonts.dll
+C:\Users\MatheusdeMelloBueno\OneDrive - ForLogic\Área de Trabalho\Util\XLParser.dll
